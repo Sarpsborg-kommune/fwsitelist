@@ -1,0 +1,62 @@
+# Sentrale nettressurser
+allkunne.no/
+bioteknologiradet.no/
+brreg.no/
+fn.no/
+lexin.udir.no/
+eksamen.lovdata.no/
+ndla.no
+norges-bank.no/
+norsksidene.no/web/
+nupi.no/
+psykologtidsskriftet.no/
+http://regjeringen.no/no/id4/
+http://w3schools.com/
+sprakradet.no/
+snl.no/
+writing-tool.app.fagbokforlaget.no/#/
+ssb.no/
+stortinget.no
+
+# Samiske og finske nettressurser
+baakoeh.oahpa.no/
+kuvsje.oahpa.no/
+sanit.oahpa.no/
+kielitoimistonsanakirja.fi/?motportal=80
+ilmainensanakirja.fi/
+sanakirja.org/
+
+
+# Yrkesfaglige utdanningsprogram
+
+# Bygg og anleggsteknikk
+## Ingen
+
+# Design og håndverk/medieproduksjon
+## Ingen
+
+# Elektrofag
+trv.banenor.no/
+
+# Helse og oppvekst
+helsedirektoratet.no/
+nhi.no
+felleskatalogen.no
+
+# Naturbruk
+## Ingen
+
+# Resturant- og matfag
+## Ingen
+
+# Service og samferdsel
+## Ingen
+
+# Teknikk og industriell produksjon
+sjofartsdir.no/
+
+# Musikk, dans og drama
+nb.no/
+
+# Medier og kommunikasjon
+presse.no/
