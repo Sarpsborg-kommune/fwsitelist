@@ -1,4 +1,17 @@
 # Fellesressurser
+ajax.googleapis.com
+crl3.digicert.com       # Burde ikke denne vært digicert.com ???
+crl4.digicert.com
+ocsp.digicert.com
+fonts.googleapis.com
+fonts.gstatic.com/
+maxcdn.bootstrapcdn.com
+netdna.bootstrapcdn.com/
+sqm.telemetry.microsoft.com/    # Usikker på om denne brukes mer
+www.google-analytics.com/
+idporten.difi.no/
+idp.feide.no/
+id.udir.no
 
 # Sentrale nettressurser
 allkunne.no/
@@ -8,6 +21,11 @@ fn.no/
 lexin.udir.no/
 eksamen.lovdata.no/
 ndla.no
+cdn-a.ndlap3.seria.net/sites/
+cdn-b.ndlap3.seria.net/misc/
+cdn-b.ndlap3.seria.net/sites/
+cdn-c.ndlap3.seria.net/misc/
+cdn-c.ndlap3.seria.net/sites/
 norges-bank.no/
 norsksidene.no/web/
 nupi.no/
